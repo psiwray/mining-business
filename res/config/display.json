@@ -1,0 +1,13 @@
+{
+	"width": 640,
+	"height": 480,
+	"framesPerSecond": 60,
+	"buffersCount": 2,
+	
+	"frontBufferAccelerated": true,
+	"backBufferAccelerated": false,
+	"bufferChecks": true,
+	"optionalChecks": true,
+	
+	"dedicatedGraphics": true
+}

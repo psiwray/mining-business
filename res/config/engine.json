@@ -1,0 +1,8 @@
+{
+	"outputDebug": true,
+	"stopOnError": true,
+	"requiresPageFlipping": false,
+	"requiresMultiBuffer": false,
+	
+	"zoomFactor": 2
+}

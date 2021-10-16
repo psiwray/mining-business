@@ -1,0 +1,51 @@
+{
+	"languages": [
+		"it_IT",
+		"en_US"
+	],
+	"names": [
+		{
+			"value": "game_description",
+			"definitions": {
+				"it_IT": "Un gioco gestionale di società minerarie",
+				"en_US": "A mining company business management game"
+			}
+		},
+		{
+			"value": "game_title",
+			"definitions": {
+				"it_IT": "Mining Business",
+				"en_US": "Mining Business"
+			}
+		},
+		
+		{
+			"value": "info_1",
+			"definitions": {
+				"it_IT": "Usa le frecce per spostare il giocatore",
+				"en_US": "Use the arrow keys to move the player"
+			}
+		},
+		{
+			"value": "info_2",
+			"definitions": {
+				"it_IT": "Usa LMB per danneggiare un blocco",
+				"en_US": "Use the LMB to damage a block"
+			}
+		},
+		{
+			"value": "info_3",
+			"definitions": {
+				"it_IT": "Usa RMB per riparare un blocco",
+				"en_US": "Use the LMB to repair a block"
+			}
+		},
+		{
+			"value": "current_day",
+			"definitions": {
+				"it_IT": "Giorno ",
+				"en_US": "Day "
+			}
+		}
+	]
+}
